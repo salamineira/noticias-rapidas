@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p>Sem notícias por enquanto.</p>
         @endforelse
     </ul>
 @endsection
