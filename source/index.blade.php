@@ -1,15 +1,15 @@
-@extends('_layouts.master')
+v@extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>Bem vindo as noticias rápidas em Lagoa dos Patos MG</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>Últimas noticias de Lagoa dos Patos e Região</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>As vezes não possuem muitos detalhes, apresentando portando somente o fato, acontecido, sem investigação em cima do caso, não considere todas as informações nesse site como obrigatoriamente legitimas.</p>
 
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+    <p>Contém conteudo de terceiros, não se responsabilizando pelo que é repassado.</p>
 
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
+    <--!<a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
         <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
     </a>
 
@@ -17,5 +17,5 @@
 
     <p>CSS test: <span class="test-css">text with blue border</span></p>
 
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
+    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>-->
 @endsection
